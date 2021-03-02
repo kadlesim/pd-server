@@ -1,0 +1,11 @@
+{
+  "name": "pd-server",
+  "version": "1.0.0",
+  "description": "server for pd web",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "simon",
+  "license": "ISC"
+}
